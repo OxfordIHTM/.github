@@ -4,5 +4,5 @@
 
 This initiative also facilitates interdisciplinary collaboration, enabling participants from different fields to work together on innovative projects that can have a real-world impact on global health.
 
-This is **Oxford iHealth**'s GitHub organisation account. To know more about our work, visit our [website](https://oxford-ihtm.io), see our [LinkedIn](https://linkedin.com/company/oxford-ihealth/) page, and follow us on <a rel="me" href="https://mastodon.social/@ihealth">Mastodon</a>.
+This is **Oxford iHealth**'s GitHub organisation account. To know more about our work, visit our :globe_with_meridians: [website](https://oxford-ihtm.io), see our :link: [LinkedIn](https://linkedin.com/company/oxford-ihealth/) page, follow us on :elephant: <a rel="me" rel="nofollow" href="https://mastodon.social/@ihealth">Mastodon</a>, or visit our :milky_way: [R Universe](https://oxfordihtm.r-universe.dev).
 
